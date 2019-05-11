@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+.container {
+    background-color: white;
+}
+
+img {
+    max-width: 90% !important;
+}
+
+#logo-img {
+    width: 100px;
+    height: 100px;
+}
+
+#social-icons {
+    text-align: right;
+    
+}
+
+.navbar-expand-lg {
+    text-align: center;
+}

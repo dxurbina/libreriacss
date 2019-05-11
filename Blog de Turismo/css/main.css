@@ -1,0 +1,48 @@
+
+img {
+    max-width: 100%;    
+}
+
+.favoritos  {
+    width: 80px;
+    height: 60px;
+    padding: 1px;
+}
+
+.container {
+   
+   
+}
+
+nav {
+   background: lightskyblue;
+}
+
+#logo {
+    border-radius: 4px 4px 4px 4px;
+    margin-left: 30px;
+    border: 1px solid lightgray;
+}
+
+#button-group .waves-effect {
+    margin: 10px;
+   
+}
+
+#img-desc {
+    width:20%;
+}
+
+#profile {
+    width: 30%;
+}
+
+@media only screen and (max-width: 600px) {
+    #button-group {
+        display: none;
+    }
+    
+  }
+
+
+
